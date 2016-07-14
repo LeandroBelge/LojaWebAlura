@@ -1,0 +1,192 @@
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\LojaWeb.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\LojaWeb.pdb
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Antlr3.Runtime.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.AspNet.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.Core.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\EntityFramework.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Iesi.Collections.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\MySql.Data.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Newtonsoft.Json.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\NHibernate.Caches.SysCache.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\NHibernate.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Ninject.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Ninject.Web.Common.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Ninject.Web.Mvc.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Net.Http.Formatting.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Helpers.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Http.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Http.WebHost.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Mvc.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Optimization.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Razor.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.WebPages.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\WebActivator.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\WebGrease.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\WebMatrix.Data.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\WebMatrix.WebData.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Iesi.Collections.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\NHibernate.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Ninject.pdb
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Ninject.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Ninject.Web.Common.pdb
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Ninject.Web.Common.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Ninject.Web.Mvc.pdb
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Ninject.Web.Mvc.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\EntityFramework.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Newtonsoft.Json.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Net.Http.Formatting.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Helpers.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Http.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Http.WebHost.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Mvc.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.Razor.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.WebPages.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\WebMatrix.Data.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\WebMatrix.WebData.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.AspNet.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.Core.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\obj\Debug\LojaWeb.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\obj\Debug\LojaWeb.pdb
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\hibernate.cfg.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\log4net.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWeb\LojaWeb\bin\log4net.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\hibernate.cfg.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\LojaWeb.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\LojaWeb.pdb
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Helpers.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Http.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Mvc.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Razor.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.WebPages.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\WebMatrix.Data.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\WebMatrix.WebData.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Iesi.Collections.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\log4net.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\NHibernate.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Ninject.pdb
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Ninject.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Ninject.Web.Common.pdb
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Ninject.Web.Common.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Ninject.Web.Mvc.pdb
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Ninject.Web.Mvc.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\EntityFramework.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Newtonsoft.Json.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Helpers.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Http.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Mvc.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.Razor.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.WebPages.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\WebMatrix.Data.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\WebMatrix.WebData.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\DotNetOpenAuth.Core.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csprojResolveAssemblyReference.cache
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\obj\Debug\LojaWeb.dll
+C:\Users\victor\Desktop\curso_asp.net\LojaWeb\LojaWeb\obj\Debug\LojaWeb.pdb
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\hibernate.cfg.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\LojaWeb.dll.config
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\LojaWeb.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\LojaWeb.pdb
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Antlr3.Runtime.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.AspNet.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.Core.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\EntityFramework.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Iesi.Collections.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\log4net.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\MySql.Data.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Newtonsoft.Json.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\NHibernate.Caches.SysCache.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\NHibernate.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Ninject.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Ninject.Web.Common.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Ninject.Web.Mvc.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Net.Http.Formatting.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Helpers.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Http.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Http.WebHost.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Mvc.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Optimization.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Razor.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.WebPages.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\WebActivator.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\WebGrease.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\WebMatrix.Data.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\WebMatrix.WebData.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Org.Mentalis.Security.Cryptography.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Mono.Math.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Iesi.Collections.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\log4net.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\NHibernate.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Ninject.pdb
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Ninject.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Ninject.Web.Common.pdb
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Ninject.Web.Common.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Ninject.Web.Mvc.pdb
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Ninject.Web.Mvc.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\EntityFramework.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Newtonsoft.Json.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Net.Http.Formatting.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Helpers.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Http.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Http.WebHost.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Mvc.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.Razor.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.WebPages.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\WebMatrix.Data.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\WebMatrix.WebData.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.AspNet.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.Core.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OAuth.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Org.Mentalis.Security.Cryptography.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\Mono.Math.xml
+D:\Projetos\Loja\LojaWeb\LojaWeb\obj\Debug\LojaWeb.csprojResolveAssemblyReference.cache
+D:\Projetos\Loja\LojaWeb\LojaWeb\obj\Debug\LojaWeb.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\obj\Debug\LojaWeb.pdb
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\Projetos\Loja\LojaWeb\LojaWeb\bin\FirebirdSql.Data.FirebirdClient.pdb
