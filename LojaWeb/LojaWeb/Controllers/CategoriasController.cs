@@ -24,7 +24,7 @@ namespace LojaWeb.Controllers
 
         public ActionResult Index()
         {
-            IList<Categoria> categorias = new List<Categoria>();
+            IList<Categoria> categorias = this.dao.Lista(); 
             return View(categorias);
         }
 

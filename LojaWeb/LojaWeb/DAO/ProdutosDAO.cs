@@ -40,7 +40,8 @@ namespace LojaWeb.DAO
         public IList<Produto> Lista()
         {
             string hql = "from Produto";
-            IQuery query = session.CreateSQLQuery(hql);
+            IQuery query = session.CreateQuery(hql);
+            query.SetCacheable(true);
             IList<Produto> produtos = query.List<Produto>();
             return produtos;
         }
@@ -48,7 +49,7 @@ namespace LojaWeb.DAO
         public IList<Produto> ProdutosComPrecoMaiorDoQue(double? preco)
         {
             string hql = "from Produto p where p.Preco > :precoMinimo";
-            IQuery query = session.CreateSQLQuery(hql);
+            IQuery query = session.CreateQuery(hql);
             query.SetParameter("precoMinimo", preco.GetValueOrDefault(0));
             return query.List<Produto>();
         }
@@ -56,7 +57,7 @@ namespace LojaWeb.DAO
         public IList<Produto> ProdutosDaCategoria(string nomeCategoria)
         {
             string hql = "from Produto p where p.Categoria.Nome = :nomeCategoria";
-            IQuery query = session.CreateSQLQuery(hql);
+            IQuery query = session.CreateQuery(hql);
             query.SetParameter("nomeCategoria", nomeCategoria);
             return query.List<Produto>();
         }
@@ -64,7 +65,7 @@ namespace LojaWeb.DAO
         public IList<Produto> ProdutosDaCategoriaComPrecoMaiorDoQue(double? preco, string nomeCategoria)
         {
             string hql = "from Produto p where p.Categoria.Nome = :nomeCategoria and p.Categoria.Preco > :preco";
-            IQuery query = session.CreateSQLQuery(hql);
+            IQuery query = session.CreateQuery(hql);
             query.SetParameter("nomeCategoria", nomeCategoria);
             query.SetParameter("preco", preco.GetValueOrDefault(0.0));
             return query.List<Produto>();

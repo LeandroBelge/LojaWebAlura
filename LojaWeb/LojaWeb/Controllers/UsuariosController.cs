@@ -1,4 +1,5 @@
-﻿using LojaWeb.Entidades;
+﻿using LojaWeb.DAO;
+using LojaWeb.Entidades;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,10 +12,16 @@ namespace LojaWeb.Controllers
     {
         //
         // GET: /Usuarios/
+        private UsuariosDAO dao;
+
+        public UsuariosController(UsuariosDAO Dao)
+        {
+            this.dao = Dao;
+        }
 
         public ActionResult Index()
         {
-            IList<Usuario> usuarios = new List<Usuario>();
+            IList<Usuario> usuarios = this.dao.Lista();
             return View(usuarios);
         }
 

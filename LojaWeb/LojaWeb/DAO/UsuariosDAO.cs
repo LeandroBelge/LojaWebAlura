@@ -18,7 +18,9 @@ namespace LojaWeb.DAO
 
         public void Adiciona(Usuario usuario)
         {
-
+            session.BeginTransaction();
+            session.Save(usuario);
+            session.Transaction.Commit();
         }
 
         public void Remove(Usuario usuario)
@@ -38,7 +40,10 @@ namespace LojaWeb.DAO
 
         public IList<Usuario> Lista()
         {
-            return new List<Usuario>();
+            string hql = "from Usuario";
+            IQuery query = session.CreateQuery(hql);
+            query.SetCacheable(true);
+            return query.List<Usuario>();
         }
     }
 }

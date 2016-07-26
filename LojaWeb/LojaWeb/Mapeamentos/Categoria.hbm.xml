@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="LojaWeb" namespace="LojaWeb.Entidades">
   <class name="Categoria">
+    <cache usage="nonstrict-read-write"></cache>
     <id name="Id">
       <generator class="identity"/>
     </id>
     <property name="Nome"/>
-    <bag name="Produtos" inverse="true" lazy="true" fetch="join"> 
+    <bag name="Produtos" inverse="true" lazy="true" fetch="join">
+      <cache usage="nonstrict-read-write"/>
       <key column="CategoriaId"></key>
       <many-to-many class="Produto"></many-to-many>
     </bag>

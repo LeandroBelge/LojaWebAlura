@@ -44,8 +44,9 @@ namespace LojaWeb.DAO
 
         public IList<Categoria> Lista()
         {
-            string hql = "from Categoria c join fetch c.Produtos";
-            IQuery query = session.CreateSQLQuery(hql);
+            string hql = "from Categoria";
+            IQuery query = session.CreateQuery(hql);
+            query.SetCacheable(true);
             return query.List<Categoria>();
         }
 
@@ -61,7 +62,7 @@ namespace LojaWeb.DAO
         {
             string hql = "select p.Categoria as Categoria, count(p) as NumeroDeProdutos " +
                          "from Produto p group by p.Categoria";
-            IQuery query = session.CreateSQLQuery(hql);
+            IQuery query = session.CreateQuery(hql);
             query.SetResultTransformer(Transformers.AliasToBean<ProdutosPorCategoria>());
             return query.List<ProdutosPorCategoria>();
         }
