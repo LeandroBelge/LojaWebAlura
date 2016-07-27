@@ -42,7 +42,7 @@ namespace LojaWeb.Controllers
 
         public ActionResult Visualiza(int id)
         {
-            Usuario usuario = new Usuario();
+            Usuario usuario = this.dao.BuscaPorId(id);
             return View(usuario);
         }
 

@@ -11,35 +11,46 @@ namespace LojaWeb.Controllers
 {
     public class VendasController : Controller
     {
+        private VendasDAO vendasDAO;
+        private UsuariosDAO usuariosDAO;
+        private ProdutosDAO produtosDAO;
+
+        public VendasController(VendasDAO vendasDAO,
+            ProdutosDAO produtosDAO, UsuariosDAO usuariosDAO)
+        {
+            this.vendasDAO = vendasDAO;
+            this.produtosDAO = produtosDAO;
+            this.usuariosDAO = usuariosDAO;
+        }
         public ActionResult Index()
         {
-            IList<Venda> vendas = new List<Venda>();
+            IList<Venda> vendas = vendasDAO.Lista();
             return View(vendas);
         }
         public ActionResult ListaProdutos()
         {
-            IList<Produto> produtos = new List<Produto>();
+            IList<Produto> produtos = produtosDAO.Lista();
             ViewBag.ProdutosNoCarrinho = this.Carrinho.Produtos.Count;
             return View(produtos);
         }
         public ActionResult AdicionaProduto(int produtoId)
         {
-            Produto produto = new Produto();
+            Produto produto = this.produtosDAO.BuscaPorId(produtoId);
             this.Carrinho.Adiciona(produto);
             return RedirectToAction("ListaProdutos");
         }
         public ActionResult FechaPedido()
         {
             IList<Produto> produtos = this.Carrinho.Produtos;
-            IList<Usuario> usuarios = new List<Usuario>();
+            IList<Usuario> usuarios = this.usuariosDAO.Lista();
             ViewBag.Usuarios = usuarios;
             return View(produtos);
         }
         public ActionResult CompletaPedido(int usuarioId)
-        {
-            Usuario usuario = new Usuario();
+        { 
+            Usuario usuario = this.usuariosDAO.BuscaPorId(usuarioId);
             Venda venda = this.Carrinho.CriaVenda(usuario);
-            // grava venda
+            this.vendasDAO.Adiciona(venda);
             this.Carrinho = new Carrinho();
             return RedirectToAction("Index");
         }

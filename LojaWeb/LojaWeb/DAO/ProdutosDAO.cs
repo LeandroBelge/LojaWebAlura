@@ -34,7 +34,7 @@ namespace LojaWeb.DAO
 
         public Produto BuscaPorId(int id)
         {
-            return null;
+            return session.Get<Produto>(id);
         }
 
         public IList<Produto> Lista()
